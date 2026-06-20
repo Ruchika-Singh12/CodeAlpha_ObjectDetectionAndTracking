@@ -116,4 +116,12 @@ Place your video file in the project folder.
 
 ---
 
+## 👩‍💻 Developed By
+
+Ruchika Singh
+
+## 🏢 Internship
+
+CodeAlpha Artificial Intelligence Internship
+
 *Built as Task 4: Object Detection and Tracking — Computer Vision Project*
